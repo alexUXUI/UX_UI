@@ -1,5 +1,6 @@
 # UX_UI
 An Introduction to User Experience and User Interface Design
+-- Alex Bennett
 
 <b>Demystifying UX and UI Design</b>
 
